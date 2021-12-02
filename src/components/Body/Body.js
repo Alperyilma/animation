@@ -30,7 +30,7 @@ const Body = () => {
             </a>
           </li>
           <li>
-            <a href="#abouth">Abouth</a>
+            <a href="#abouth">About</a>
           </li>
           <li>
             <a
